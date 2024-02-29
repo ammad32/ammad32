@@ -1,6 +1,6 @@
 ![logo](https://github.com/ammad32/ammad32/blob/main/Gray%20Black%203D%20Coding%20Course%20Medium%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Ammmad</h1>
-<h3 align="center">I am a Front-End Developer with experience in building and maintaining user-friendly and responsive websites and web applications. HTML,CSS,JS,PHP and Bootstrap</h3>
+<h3 align="center">I am a Front-End Developer with experience in building and maintaining user-friendly and responsive websites and web applications. HTML,CSS,JS, Bootstrap, React JS, Redux Toolkit and Tailwind CSS  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammad32&label=Profile%20views&color=0e75b6&style=flat" alt="ammad32" /> </p>
 
