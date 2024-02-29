@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ammmad</h1>
 <h3 align="center">I am a Front-End Developer with experience in building and maintaining user-friendly and responsive websites and web applications. HTML,CSS,JS,PHP and Bootstrap</h3>
+<iframe align="right" alt="Coding Gif" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammad32&label=Profile%20views&color=0e75b6&style=flat" alt="ammad32" /> </p>
 
